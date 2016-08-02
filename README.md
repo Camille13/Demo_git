@@ -1,2 +1,2 @@
 # Demo_git
-Demo de git
+Mon projet sert à apprendre à utiliser Git
